@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Millersville, Maryland
   - "🚀 Passionate about deepening my knowledge and experience in cybersecurity
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/tyrell-adams-5a3013335
 image: /assets/images/me.jpg
 ---
