@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tyrell_Adams
+title: Tyrell-Adams
 description: This is my CEAMLS SAIRI Summer 2025 Research Website
 
 motto: "Ive failed over and over again in my life. And that is why I succeed"
