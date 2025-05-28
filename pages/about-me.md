@@ -29,8 +29,8 @@ about:
   gallery:
     - image: /assets/images/IMG_2505.JPG
       caption: Community service for Black Church FSN
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
+    - image: /assets/images/IMG_0817.HEIC
+      caption: Working out 💪
     - image: /assets/images/me.jpg
       caption: My favorite portrait of myself :)
     - image: /assets/images/me-pi.png
