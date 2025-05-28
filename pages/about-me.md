@@ -29,7 +29,7 @@ about:
   gallery:
     - image: /assets/images/IMG_2505.JPG
       caption: Community service for Black Church FSN
-    - image: /assets/images/IMG_0817.HEIC
+    - image: 
       caption: Working out 💪
     - image: /assets/images/IMG_E1047.JPG
       caption: One of the organizations i'm in
