@@ -4,12 +4,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Tyrell Adams
+  role: Junior, Cybersecurity Intelligence Management Major at Morgan State University 
+  image: IMG_0685.JPG
+  linkedin: https://www.linkedin.com/in/tyrell-adams-5a3013335
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a junior studying Cybersecurity Intelligence Management at Morgan State University in Baltimore, Maryland. I expect to graduate in 2027.
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
