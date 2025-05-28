@@ -11,20 +11,20 @@ about:
   bio: |
     I’m currently a junior studying Cybersecurity Intelligence Management at Morgan State University in Baltimore, Maryland. I expect to graduate in 2027.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My work explores the development of meta-learning-based proactive defence systems in order to predict unforeseen adversarial attacks.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy working out, playing basketball, gaming during my free time, and I like to partake in community service.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 
+      title: Basketball
+      description: I’ve been playing for the majority of my life and it's one of my main passions.
+    - icon: 
+      title: Working out
+      description: I enjoy working on myself physically and mentally.
+    - icon: 
+      title: Gaming
+      description: I Like to play a variety of games when im free.
 
   gallery:
     - image: /assets/images/me-guitar.png
