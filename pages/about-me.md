@@ -31,8 +31,8 @@ about:
       caption: Community service for Black Church FSN
     - image: /assets/images/IMG_0817.HEIC
       caption: Working out 💪
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/IMG_E1047.JPG
+      caption: One of the organizations i'm in
+    
+    
 ---
