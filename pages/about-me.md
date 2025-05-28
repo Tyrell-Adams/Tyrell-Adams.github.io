@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Tyrell Adams
   role: Junior, Cybersecurity Intelligence Management Major at Morgan State University 
-  image: IMG_0685.JPG
+  image: /assets/images/IMG_E0688.JPG
   linkedin: https://www.linkedin.com/in/tyrell-adams-5a3013335
   bio: |
     I’m currently a junior studying Cybersecurity Intelligence Management at Morgan State University in Baltimore, Maryland. I expect to graduate in 2027.
@@ -16,13 +16,13 @@ about:
     When I’m not working on research, I enjoy working out, playing basketball, gaming during my free time, and I like to partake in community service.
 
   hobbies:
-    - icon: 
+    - icon: 🏀
       title: Basketball
       description: I’ve been playing for the majority of my life and it's one of my main passions.
-    - icon: 
+    - icon: 🏋️
       title: Working out
       description: I enjoy working on myself physically and mentally.
-    - icon: 
+    - icon: 🎮
       title: Gaming
       description: I Like to play a variety of games when im free.
 
