@@ -27,8 +27,8 @@ about:
       description: I Like to play a variety of games when im free.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+    - image: /assets/images/IMG_2505.JPG
+      caption: Community service for Black Church FSN
     - image: /assets/images/me-basketball.png
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/me.jpg
