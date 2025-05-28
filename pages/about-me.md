@@ -13,7 +13,7 @@ about:
 
     My work explores the development of meta-learning-based proactive defence systems in order to predict unforeseen adversarial attacks.
 
-    When I’m not working on research, I enjoy working out, playing basketball, gaming during my free time, and I like to partake in community service.
+    When I’m not working on research, I enjoy working out, playing basketball, gaming during my free time, and I like to partake in community service usually within my organizations.
 
   hobbies:
     - icon: 🏀
