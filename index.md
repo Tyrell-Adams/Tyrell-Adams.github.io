@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about deepening my knowledge and experience in cybersecurity"
 
 linkedin: https://www.linkedin.com/in/tyrell-adams-5a3013335
-image: assets/IMG_0685.JPG
+image: /assets/images/IMG_0685.JPG
 ---
