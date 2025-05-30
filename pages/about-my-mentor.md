@@ -5,7 +5,7 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Olayinka Jolayemi
-  title: Doctoral, Secure Embedded Systems
+  title: Master's, Electrical Engineering
   image: /assets/images/Grad.instr.jpg
   website: https://www.linkedin.com/in/jolayemi-olayinka-85b38268/
   bio: |
@@ -16,11 +16,10 @@ graduate_mentor:
 faculty_mentor:
   name:  Dr. Cliston Cole
   title: Dr. Cole, Morgan State University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  image: /assets/images/cole.jpg
+  website: https://www.morgan.edu/electrical-and-computer-engineering/faculty-and-staff/dr-cliston-cole
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr. Cliston Cole is an expert in the field of Electrical and Computer Engineering in which he earning his B.S. and M.S. in Electrical Engineering at Tuskegee University and his Ph.D. in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign. Now works in the department of computer and electrical engineering at Morgan State University.
+    Dr. Cliston Cole has a passion for improving the quality of life for people through cyber systems and has many interests that include human speech recognition, advanced hardware systems, and secure communications.
 
 ---
