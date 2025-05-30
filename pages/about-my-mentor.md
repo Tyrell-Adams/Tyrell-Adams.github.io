@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Olayinka Jolayemi
   title: Doctoral, Secure Embedded Systems
-  image: /assets/images/graduate-student-mentor.jpg
+  image: /assets/images/Grad.instr.jpg
   website: https://www.linkedin.com/in/jolayemi-olayinka-85b38268/
   bio: |
     Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
