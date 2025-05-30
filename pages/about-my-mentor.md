@@ -9,13 +9,13 @@ graduate_mentor:
   image: /assets/images/Grad.instr.jpg
   website: https://www.linkedin.com/in/jolayemi-olayinka-85b38268/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Olayinka Jolayemi has a Master's in Electrical Engineering. After getting his degree, he started working at Kinzo Engineering as an engineer in cybersecurity, and his role was the protection of computer systems  and networks from all types of threats and attacks alike.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Outside of that, Olayinka is currently pursuing a Ph.D in Secure Embedded Systems at Morgan State University, and he loves taking up challenges and positions that benefit him and the organizations that he is a part of.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name:  Dr. Cliston Cole
+  title: Dr. Cole, Morgan State University
   image: /assets/images/faculty-mentor.jpg
   website: https://facultymentor.example.com
   bio: |
