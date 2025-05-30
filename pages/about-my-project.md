@@ -30,5 +30,5 @@ grad_mentor:
 
 faculty_mentor:
   name: Dr. Cliston Cole
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  Profile: https://www.morgan.edu/electrical-and-computer-engineering/faculty-and-staff/dr-cliston-cole
 ---
