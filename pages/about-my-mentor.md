@@ -4,8 +4,8 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
+  name: Olayinka Jolayemi
+  title: Doctoral, Secure Embedded Systems
   image: /assets/images/graduate-student-mentor.jpg
   website: https://gradmentor.example.com
   bio: |
