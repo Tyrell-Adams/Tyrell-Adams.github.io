@@ -11,9 +11,9 @@ about:
   bio: |
     I’m currently a junior studying Cybersecurity Intelligence Management at Morgan State University in Baltimore, Maryland. I expect to graduate in 2027.
 
-    My work explores the development of meta-learning-based proactive defence systems in order to predict unforeseen adversarial attacks.
+    My work explores the development of meta-learning-based proactive defense systems in order to predict unforeseen adversarial attacks.
 
-    When I’m not working on research, I enjoy working out, playing basketball, gaming during my free time, and I like to partake in community service usually within my organizations.
+    When I’m not working on research, I enjoy working out, playing basketball, and gaming during my free time, and I like to partake in community service usually within my organizations.
 
   hobbies:
     - icon: 🏀
@@ -32,7 +32,7 @@ about:
     - image: /assets/images/IMG_E1049.JPG
       caption: Working out 💪
     - image: /assets/images/IMG_E1047.JPG
-      caption: One of the organizations i'm in
+      caption: One of the organizations I'm in
     
     
 ---
