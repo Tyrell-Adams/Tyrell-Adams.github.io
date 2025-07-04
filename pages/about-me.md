@@ -24,7 +24,7 @@ about:
       description: I enjoy working on myself physically and mentally.
     - icon: 🎮
       title: Gaming
-      description: I Like to play a variety of games when im free.
+      description: I like to play a variety of games when I'm free.
 
   gallery:
     - image: /assets/images/IMG_2505.JPG
