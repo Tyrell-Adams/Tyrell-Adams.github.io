@@ -7,15 +7,15 @@ subtitle: Proactive Defense System
 project_title: "Proactive Defense System for Unforeseen Adversarial Attacks"
 
 problem: |
- The problem with cyber defence systems is that they are reactive against known attacks, which can be an issue when dealing with constantly evolving threats.
+ The problem with cyber defense systems is that they are reactive against known attacks, which can be an issue when dealing with constantly evolving threats.
 
   This project aims to develop a meta-learning-based proactive defense system to counter unforeseen attacks and threats.
 approach: |
   The project follows a three-phase pipeline:
 
-  - Develop meta-learning-based proactive defence systems to defend against unforeseen threats and attacks
-  - Upload the codes used for the proactive defence system to IoT devices
-  - Conduct many tests and evaluations to measure and document the performance against unforeseen attacks in real time
+  - Develop meta-learning-based proactive defense systems to defend against unforeseen threats and attacks
+  - Upload the codes used for the proactive defense system to IoT devices
+  - Conduct many tests and evaluations to measure and document the performance against unforeseen attacks in real-time
   
   Open-source tools such as Python and C++ will be used for the implementation of meta-testing
 
