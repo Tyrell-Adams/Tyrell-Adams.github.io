@@ -19,7 +19,7 @@ faculty_mentor:
   image: /assets/images/cole.jpg
   website: https://www.morgan.edu/electrical-and-computer-engineering/faculty-and-staff/dr-cliston-cole
   bio: |
-    Dr. Cliston Cole is an expert in the field of Electrical and Computer Engineering in which he earning his B.S. and M.S. in Electrical Engineering at Tuskegee University and his Ph.D. in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign. Now works in the department of computer and electrical engineering at Morgan State University.
+    Dr. Cliston Cole is an expert in the field of Electrical and Computer Engineering from which he earned his B.S. and M.S. in Electrical Engineering at Tuskegee University and his Ph.D. in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign. Now works in the Department of Computer and Electrical Engineering at Morgan State University.
     Dr. Cliston Cole has a passion for improving the quality of life for people through cyber systems and has many interests that include human speech recognition, advanced hardware systems, and secure communications.
 
 ---
